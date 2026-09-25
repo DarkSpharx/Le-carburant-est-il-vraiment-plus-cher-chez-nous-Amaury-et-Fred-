@@ -10,6 +10,13 @@ Date d'extraction :
     18/09/2026
 
 Question reformulée avec Malik :
+Carburants au 18 septembre 2026 : quelle région affichait les prix les plus élevés ?
+
+Dépôt :
+le fichier README.md
+Le fichier excel "analyse_carburants.xlsx"
+le fichier note-redaction.md
+
 
 
 Axes de travail :
