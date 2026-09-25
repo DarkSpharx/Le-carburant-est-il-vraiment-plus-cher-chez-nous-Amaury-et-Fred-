@@ -2,13 +2,24 @@ titre :
 
 Chapô : (5 lignes)
 
-la réponse a la question du lecteur (Chez nous, dans le Nord, on paye le carburant plus cher qu'ailleurs.) :
+la réponse a la question du lecteur (Chez nous, dans le Nord, on paye le carburant plus cher qu'ailleurs.) : Non la région Haut de france n'est pas la plus cher, c'est la région Grand 
 
-Point notable :
-Pas de bio carburant en corse
-Bien que le coût du transport insulaire renchérisse habituellement les carburants, la Corse s'impose en ce milieu de mois de septembre comme la région la moins chère de France grâce à son taux de TVA réduit à 13 % et des stocks locaux temporairement préservés des hausses subies sur le continent.
+Points notables :
+- Données brutes non utilisées : L'onglet Stations du fichier n'a pas été utile pour l'analyse.
 
-1. L'impact de la fiscalité locale
-Bien que le coût du transport insulaire renchérisse habituellement les prix à la pompe, la Corse s'impose en ce milieu du mois de septembre comme la région la moins chère de France grâce à son taux de TVA réduit à 13 % (contre 20 % sur le continent) et des stocks locaux temporairement préservés des hausses nationales.
-2. L'absence de biocarburants
-Ce phénomène s'explique également par la spécificité du réseau insulaire : la Corse ne distribue pas de biocarburants (comme le E85 ou le SP95-E10), évitant ainsi les taxes d'incorporation et les contraintes logistiques liées à ces filières, ce qui maintient les carburants traditionnels à un tarif plus stable.
+- Périmètre géographique : On note l'absence des DROM-COM dans les données fournies.
+
+- Spécificités de la Corse :
+    . Absence de biocarburants distribués sur l'île.
+    . Absence de d'autoroute sur l'île.
+    . Moyennes de prix les plus basses de France pour le gazole et l'essence.
+    . Prix le plus élevé de France pour le GPL.
+
+
+
+histogramme :
+Classemnt prix essence moyen par région (route) 
+Classemnt prix essence moyen par région (autoroute) 
+
+Classemnt prix diesel moyen par région (route) 
+Classemnt prix diesel moyen par région (autoroute) 

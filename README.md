@@ -19,18 +19,31 @@ le fichier note-redaction.md
 
 
 
-Axes de travail :
-    France / énergie : prix moyen des energies (4)  ok!
-    Tableaux :
-    France mixte : energie / prix moyen / prix médian / prix min / prix max
-    France autoroute : energie / prix moyen / prix médian / prix min / prix max
-    France route : energie / prix moyen / prix médian / prix min / prix max
+to do :
+ok	README.md
+ok		le nom des deux auteurs
+ok		la source des données
+ok		et sa date d'extraction
+ok		la question telle que vous l'avez reformulée avec Malik
+!		et où trouver quoi dans le dépôt.
 
-région / Energie : prix moyen des énergies (4) par région (13)
+ok	analyse_carburants.xlsx
+ok		onglet Releve_prix intact
+ok		un onglet Cadrage : votre question reformulée, votre périmètre, vos hypothèses
+ok		un onglet par axe d'analyse, TCD actualisés, formules apparentes
+!		un onglet Graphiques avec les trois visualisations finies
 
-région / gazole : prix moyen du gazole (1) par région (13)
+ok	note-redaction.md
+ok		le titre d'article
+!		chapô (5 lignes)
+ok		la réponse à la question du lecteur, avec le chiffre, son indicateur et son périmètre
+!		ce que vous avez trouvé de plus intéressant, qui n'était pas dans la question initiale
+!		les trois limites du jeu de données, formulées pour un lecteur non technicien
+ok		la source et la date d'extraction
 
-région / essence : prix moyen du essence (1) par région (13)
+ok	3 graphiques en .png
+
+
 
 
 Abérations :
