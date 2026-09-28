@@ -1,9 +1,12 @@
 Question reformulée avec Malik :
 Carburants, au 18 septembre 2026 : quelle région affichait les prix les plus élevés ?
 
+
 Chapô : Pour répondre a la question "Carburant : les Hauts-de-France paient-ils plus cher ?" nous avons analyser la moyenne regionnales et national du gazole et de l'essence, grâce aux données du Ministere de l Economie et des Finances (source ouverte du 18/09/2026). L'objectif est de savoir la région ou les français paient le plus cher a la pompe, en fonction du réseau routier(route, autorouret et mixte). 
 
+
 la réponse a la question du lecteur (Chez nous, dans le Nord, on paye le carburant plus cher qu'ailleurs.) : Non la région Haut de france n'est pas la plus cher, c'est la région Grand Est.
+
 
 Points notables :
 - Données brutes non utilisées : L'onglet Stations du fichier n'a pas été utile pour l'analyse.
@@ -15,6 +18,7 @@ Points notables :
     . Absence de d'autoroute sur l'île.
     . Moyennes de prix les plus basses de France pour le gazole et l'essence.
     . Prix le plus élevé de France pour le GPL.
+
 
 limites du jeu de données :
 Possibilités d'erreurs sur les prix déclarés : le document contient les prix déclarés au 18 septembre 2026, mais certains prix peuvent être antérieurs, sachant que le prix est extrêmement volatile au vu de la conjoncture internationale. La limite la plus importante reste l'interprétation du fichier brut.
