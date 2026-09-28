@@ -2,6 +2,7 @@
 Auteurs :
     Amaury DUCOULOMBIER
     Frédéric ARNOULD
+    Pierre-Yves LANCRY
 
 Source des données :
     Ministere de l Economie et des Finances - data.economie.gouv.fr
@@ -9,36 +10,41 @@ Source des données :
 Date d'extraction :
     18/09/2026
 
-Question reformulée avec Malik :
-Carburants au 18 septembre 2026 : quelle région affichait les prix les plus élevés ?
+ 
 
 Dépôt :
 le fichier README.md
-Le fichier excel "analyse_carburants.xlsx"
+Le fichier "analyse_carburants.xlsx" au format excel et Google Sheet
 le fichier note-redaction.md
-
+Graphiques :
+    - Carte prix moyen de l'essence par Région
+    - Carte prix moyen du diesel par Région
+    - Distribution des prix du Diesel - Stations Route (Hauts-de-France)
+    - Prix moyen de l'essence (par type de réseau routier)
+    - Prix moyen de l'essence (tout réseaux)
+    - Prix moyen du diesel (tout réseaux)
 
 
 to do :
 ok	README.md
-ok		le nom des deux auteurs
+ok		le nom des trois auteurs
 ok		la source des données
 ok		et sa date d'extraction
 ok		la question telle que vous l'avez reformulée avec Malik
-!		et où trouver quoi dans le dépôt.
+ok		et où trouver quoi dans le dépôt.
 
 ok	analyse_carburants.xlsx
 ok		onglet Releve_prix intact
 ok		un onglet Cadrage : votre question reformulée, votre périmètre, vos hypothèses
 ok		un onglet par axe d'analyse, TCD actualisés, formules apparentes
-!		un onglet Graphiques avec les trois visualisations finies
+ok		un onglet Graphiques avec les trois visualisations finies
 
 ok	note-redaction.md
 ok		le titre d'article
-!		chapô (5 lignes)
+ok		chapô (5 lignes)
 ok		la réponse à la question du lecteur, avec le chiffre, son indicateur et son périmètre
-!		ce que vous avez trouvé de plus intéressant, qui n'était pas dans la question initiale
-!		les trois limites du jeu de données, formulées pour un lecteur non technicien
+ok		ce que vous avez trouvé de plus intéressant, qui n'était pas dans la question initiale
+ok		les trois limites du jeu de données, formulées pour un lecteur non technicien
 ok		la source et la date d'extraction
 
 ok	3 graphiques en .png
@@ -46,8 +52,7 @@ ok	3 graphiques en .png
 
 
 
-Abérations :
-Pas de Biocarburant en Corse
+Aberrations  :
 
 86360003	Nouvelle-Aquitaine	Vienne	86	86360	Chasseneuil-du-Poitou	6 Route de Paris	Route	Gaz	GPLc	2,191 €
 
