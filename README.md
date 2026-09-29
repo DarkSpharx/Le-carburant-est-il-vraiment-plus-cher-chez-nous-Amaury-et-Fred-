@@ -1,7 +1,6 @@
 Auteurs :
     Amaury DUCOULOMBIER
     Frédéric ARNOULD
-    Pierre-Yves LANCRY
 
 Source des données :
     Ministere de l Economie et des Finances - data.economie.gouv.fr
