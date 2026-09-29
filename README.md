@@ -9,11 +9,24 @@ Source des données :
 Date d'extraction :
     18/09/2026
 
-
-
 Dépôt :
 le fichier README.md
 Le fichier "analyse_carburants.xlsx" au format excel et Google Sheet
+    feuilles : 
+    - Releve_prix
+    - Stations
+    - Dictionnaire
+    - Releve_prix_intact
+    - Stations_intact
+    - Axe 0 - France
+    - Axe 1 — Les régions 
+    - Axe 2 — Route ou autoroute
+    - Axe 3 — Dans une même ville 
+    - Axe 4 - Regions-Diesel
+    - Axe 4 - Region-Essence
+    - Cadrage
+    - Graphiques
+    - Perimetre_et_source
 le fichier note-redaction.md
 Graphiques :
     - Carte prix moyen de l'essence par Région
